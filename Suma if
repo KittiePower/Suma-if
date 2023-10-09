@@ -1,0 +1,35 @@
+/******************************************************************************
+Suma 
+Nombre: Elisa Michelle Medina Vázquez 
+Fecha: 26042022
+*******************************************************************************/
+
+#include <iostream>
+/*
+Ejemplo para uso de condicional if 
+*/
+using namespace std;
+
+int main()
+{
+    int resultado=0;
+    int descuento;
+    int compra;
+    
+    cout<<" Escribe el resultado de 32+55"<<endl;
+    cin>>resultado;
+    if(resultado==87){
+        descuento=compra*0.15;
+        cout<<"Respuesta correcta. Felicitaciones!\n"<<endl;
+        
+    }
+    
+    return 0;
+}
+
+
+
+
+
+
+
